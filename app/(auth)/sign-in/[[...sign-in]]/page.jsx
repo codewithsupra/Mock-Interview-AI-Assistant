@@ -29,12 +29,11 @@ export default function Page() {
         </a>
 
         <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-          Welcome to AI Interview Mocker 🦑
+        Unleash Your Potential with Smart Interview  AI Assistant🦑
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-          quibusdam aperiam voluptatum.
+        Ready to ace your dream job interview? Experience cutting-edge AI-powered mock interviews tailored to sharpen your skills, boost your confidence, and leave no question unanswered. With personalized feedback, real-time analysis, and industry-specific preparation, we're redefining the way you prepare for interviews. 🚀
         </p>
       </div>
     </section>

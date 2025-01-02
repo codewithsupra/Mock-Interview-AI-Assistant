@@ -73,13 +73,13 @@ function AddNewInterview() {
          transition-all border-dashed'
          onClick={()=>setOpenDailog(true)}
          >
-            <h2 className='text-lg text-center'>+ Add New</h2>
+            <h2 className='text-lg text-center'>+ Add New Job</h2>
         </div>
         <Dialog open={openDailog}>
        
         <DialogContent className="max-w-2xl">
             <DialogHeader >
-            <DialogTitle className="text-2xl" >Tell us more about your job interviwing</DialogTitle>
+            <DialogTitle className="text-2xl" >Tell us more about your job roles</DialogTitle>
             <DialogDescription>
                 <form onSubmit={onSubmit}>
                 <div>
